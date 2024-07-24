@@ -1065,7 +1065,7 @@ a:hover, a:active {
 
 .grid-item img {
     width: 120%;
-    height: 120%;
+    height: 100%;
 }
 
 .grid-item .img-place {
